@@ -73,7 +73,7 @@ Highcharts.getJSON(
         },
 
         title: {
-          text: "Best Coronacation Sites 2020"
+          text: "Safest Vacation Sites in the USA 2020""
         },
 
         legend: {
