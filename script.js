@@ -94,8 +94,8 @@ Highcharts.getJSON(
 
         colorAxis: {
           min: 0,
-          max: 1,
-          tickInterval: 0.33,
+          max: 0.6,
+          tickInterval: 0.2,
           stops: [[0, "#228B22"], [0.65, "#FFFF00"], [1, "#8B0000"]],
           labels: {
             format: "{value} risk"
