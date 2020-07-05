@@ -22,7 +22,7 @@ function myFunction() {
 }
 
 Highcharts.getJSON(
-    "https://raw.githubusercontent.com/NectDz/coronacation/master/newjson.json",
+    "https://raw.githubusercontent.com/NectDz/coronacation/master/UScounty.json",
   
   function(data) {
     /**
