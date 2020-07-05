@@ -11036,182 +11036,182 @@
 	{
 		"code": "us-or-001",
 		"name": "Baker County, OR",
-		"value": 7.6
+		"value": 2.6
 	},
 	{
 		"code": "us-or-003",
 		"name": "Benton County, OR",
-		"value": 3.1
+		"value": 2.1
 	},
 	{
 		"code": "us-or-005",
 		"name": "Clackamas County, OR",
-		"value": 4.1
+		"value": 2
 	},
 	{
 		"code": "us-or-007",
 		"name": "Clatsop County, OR",
-		"value": 5.1
+		"value": 2
 	},
 	{
 		"code": "us-or-009",
 		"name": "Columbia County, OR",
-		"value": 5.6
+		"value": 2
 	},
 	{
 		"code": "us-or-011",
 		"name": "Coos County, OR",
-		"value": 6.3
+		"value": 2.3
 	},
 	{
 		"code": "us-or-013",
 		"name": "Crook County, OR",
-		"value": 8.2
+		"value": 2
 	},
 	{
 		"code": "us-or-015",
 		"name": "Curry County, OR",
-		"value": 7.8
+		"value": 2
 	},
 	{
 		"code": "us-or-017",
 		"name": "Deschutes County, OR",
-		"value": 5.3
+		"value": 2.3
 	},
 	{
 		"code": "us-or-019",
 		"name": "Douglas County, OR",
-		"value": 6.2
+		"value": 2
 	},
 	{
 		"code": "us-or-021",
 		"name": "Gilliam County, OR",
-		"value": 4.1
+		"value": 2.1
 	},
 	{
 		"code": "us-or-023",
 		"name": "Grant County, OR",
-		"value": 11.5
+		"value": 2
 	},
 	{
 		"code": "us-or-025",
 		"name": "Harney County, OR",
-		"value": 9.2
+		"value": 2
 	},
 	{
 		"code": "us-or-027",
 		"name": "Hood River County, OR",
-		"value": 4.1
+		"value": 2
 	},
 	{
 		"code": "us-or-029",
 		"name": "Jackson County, OR",
-		"value": 5.5
+		"value": 1.5
 	},
 	{
 		"code": "us-or-031",
 		"name": "Jefferson County, OR",
-		"value": 8
+		"value": 2
 	},
 	{
 		"code": "us-or-033",
 		"name": "Josephine County, OR",
-		"value": 6.5
+		"value": 1.5
 	},
 	{
 		"code": "us-or-035",
 		"name": "Klamath County, OR",
-		"value": 8.4
+		"value": 2.4
 	},
 	{
 		"code": "us-or-037",
 		"name": "Lake County, OR",
-		"value": 7.9
+		"value": 1.9
 	},
 	{
 		"code": "us-or-039",
 		"name": "Lane County, OR",
-		"value": 4.9
+		"value": 1.9
 	},
 	{
 		"code": "us-or-041",
 		"name": "Lincoln County, OR",
-		"value": 5.9
+		"value": 2
 	},
 	{
 		"code": "us-or-043",
 		"name": "Linn County, OR",
-		"value": 5.3
+		"value": 2.3
 	},
 	{
 		"code": "us-or-045",
 		"name": "Malheur County, OR",
-		"value": 6.2
+		"value": 2.2
 	},
 	{
 		"code": "us-or-047",
 		"name": "Marion County, OR",
-		"value": 4.8
+		"value": 2
 	},
 	{
 		"code": "us-or-049",
 		"name": "Morrow County, OR",
-		"value": 5.6
+		"value": 1.6
 	},
 	{
 		"code": "us-or-051",
 		"name": "Multnomah County, OR",
-		"value": 4
+		"value": 2
 	},
 	{
 		"code": "us-or-053",
 		"name": "Polk County, OR",
-		"value": 4.8
+		"value": 1.8
 	},
 	{
 		"code": "us-or-055",
 		"name": "Sherman County, OR",
-		"value": 4.6
+		"value": 2
 	},
 	{
 		"code": "us-or-057",
 		"name": "Tillamook County, OR",
-		"value": 5.2
+		"value": 2
 	},
 	{
 		"code": "us-or-059",
 		"name": "Umatilla County, OR",
-		"value": 6.9
+		"value": 2
 	},
 	{
 		"code": "us-or-061",
 		"name": "Union County, OR",
-		"value": 7.1
+		"value": 2.1
 	},
 	{
 		"code": "us-or-063",
 		"name": "Wallowa County, OR",
-		"value": 8.5
+		"value": 1.5
 	},
 	{
 		"code": "us-or-065",
 		"name": "Wasco County, OR",
-		"value": 5.6
+		"value": 1.6
 	},
 	{
 		"code": "us-or-067",
 		"name": "Washington County, OR",
-		"value": 3.7
+		"value": 1.7
 	},
 	{
 		"code": "us-or-069",
 		"name": "Wheeler County, OR",
-		"value": 3.4
+		"value": 2
 	},
 	{
 		"code": "us-or-071",
 		"name": "Yamhill County, OR",
-		"value": 3.9
+		"value": 1.9
 	},
 	{
 		"code": "us-pa-001",
@@ -11221,7 +11221,7 @@
 	{
 		"code": "us-pa-003",
 		"name": "Allegheny County, PA",
-		"value": 4.7
+		"value": 2.7
 	},
 	{
 		"code": "us-pa-005",
@@ -11231,7 +11231,7 @@
 	{
 		"code": "us-pa-007",
 		"name": "Beaver County, PA",
-		"value": 5.7
+		"value": 2.7
 	},
 	{
 		"code": "us-pa-009",
@@ -11241,7 +11241,7 @@
 	{
 		"code": "us-pa-011",
 		"name": "Berks County, PA",
-		"value": 4.7
+		"value": 2.7
 	},
 	{
 		"code": "us-pa-013",
@@ -11251,12 +11251,12 @@
 	{
 		"code": "us-pa-015",
 		"name": "Bradford County, PA",
-		"value": 5.4
+		"value": 2.4
 	},
 	{
 		"code": "us-pa-017",
 		"name": "Bucks County, PA",
-		"value": 4.3
+		"value": 2.3
 	},
 	{
 		"code": "us-pa-019",
@@ -11276,7 +11276,7 @@
 	{
 		"code": "us-pa-025",
 		"name": "Carbon County, PA",
-		"value": 5.9
+		"value": 2.9
 	},
 	{
 		"code": "us-pa-027",
@@ -11286,7 +11286,7 @@
 	{
 		"code": "us-pa-029",
 		"name": "Chester County, PA",
-		"value": 3.5
+		"value": 2.5
 	},
 	{
 		"code": "us-pa-031",
@@ -11316,7 +11316,7 @@
 	{
 		"code": "us-pa-041",
 		"name": "Cumberland County, PA",
-		"value": 3.8
+		"value": 2.8
 	},
 	{
 		"code": "us-pa-043",
@@ -11341,7 +11341,7 @@
 	{
 		"code": "us-pa-051",
 		"name": "Fayette County, PA",
-		"value": 7.8
+		"value": 2.8
 	},
 	{
 		"code": "us-pa-053",
@@ -11361,7 +11361,7 @@
 	{
 		"code": "us-pa-059",
 		"name": "Greene County, PA",
-		"value": 5.9
+		"value": 2.9
 	},
 	{
 		"code": "us-pa-061",
@@ -11371,12 +11371,12 @@
 	{
 		"code": "us-pa-063",
 		"name": "Indiana County, PA",
-		"value": 6.4
+		"value": 2.4
 	},
 	{
 		"code": "us-pa-065",
 		"name": "Jefferson County, PA",
-		"value": 6.2
+		"value": 2.2
 	},
 	{
 		"code": "us-pa-067",
@@ -11421,7 +11421,7 @@
 	{
 		"code": "us-pa-083",
 		"name": "McKean County, PA",
-		"value": 5.8
+		"value": 2.8
 	},
 	{
 		"code": "us-pa-085",
@@ -11441,7 +11441,7 @@
 	{
 		"code": "us-pa-091",
 		"name": "Montgomery County, PA",
-		"value": 3.8
+		"value": 2.8
 	},
 	{
 		"code": "us-pa-093",
@@ -11461,12 +11461,12 @@
 	{
 		"code": "us-pa-099",
 		"name": "Perry County, PA",
-		"value": 4.8
+		"value": 2.8
 	},
 	{
 		"code": "us-pa-101",
 		"name": "Philadelphia County/city, PA",
-		"value": 6
+		"value": 2
 	},
 	{
 		"code": "us-pa-103",
@@ -11481,7 +11481,7 @@
 	{
 		"code": "us-pa-107",
 		"name": "Schuylkill County, PA",
-		"value": 6.2
+		"value": 2
 	},
 	{
 		"code": "us-pa-109",
@@ -11501,7 +11501,7 @@
 	{
 		"code": "us-pa-115",
 		"name": "Susquehanna County, PA",
-		"value": 5.6
+		"value": 2.6
 	},
 	{
 		"code": "us-pa-117",
@@ -11511,7 +11511,7 @@
 	{
 		"code": "us-pa-119",
 		"name": "Union County, PA",
-		"value": 4.5
+		"value": 2.5
 	},
 	{
 		"code": "us-pa-121",
@@ -11526,7 +11526,7 @@
 	{
 		"code": "us-pa-125",
 		"name": "Washington County, PA",
-		"value": 5.4
+		"value": 2.4
 	},
 	{
 		"code": "us-pa-127",
@@ -11586,7 +11586,7 @@
 	{
 		"code": "us-sc-005",
 		"name": "Allendale County, SC",
-		"value": 7.4
+		"value": 2.4
 	},
 	{
 		"code": "us-sc-007",
@@ -11601,7 +11601,7 @@
 	{
 		"code": "us-sc-011",
 		"name": "Barnwell County, SC",
-		"value": 5.8
+		"value": 2.8
 	},
 	{
 		"code": "us-sc-013",
@@ -11611,7 +11611,7 @@
 	{
 		"code": "us-sc-015",
 		"name": "Berkeley County, SC",
-		"value": 3.9
+		"value": 2.9
 	},
 	{
 		"code": "us-sc-017",
@@ -11626,7 +11626,7 @@
 	{
 		"code": "us-sc-021",
 		"name": "Cherokee County, SC",
-		"value": 4.6
+		"value": 2.6
 	},
 	{
 		"code": "us-sc-023",
@@ -11656,7 +11656,7 @@
 	{
 		"code": "us-sc-033",
 		"name": "Dillon County, SC",
-		"value": 5.7
+		"value": 2.7
 	},
 	{
 		"code": "us-sc-035",
@@ -11666,7 +11666,7 @@
 	{
 		"code": "us-sc-037",
 		"name": "Edgefield County, SC",
-		"value": 4.4
+		"value": 2.4
 	},
 	{
 		"code": "us-sc-039",
@@ -11701,7 +11701,7 @@
 	{
 		"code": "us-sc-051",
 		"name": "Horry County, SC",
-		"value": 6.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sc-053",
@@ -11716,7 +11716,7 @@
 	{
 		"code": "us-sc-057",
 		"name": "Lancaster County, SC",
-		"value": 4.8
+		"value": 2.8
 	},
 	{
 		"code": "us-sc-059",
@@ -11726,7 +11726,7 @@
 	{
 		"code": "us-sc-061",
 		"name": "Lee County, SC",
-		"value": 5.4
+		"value": 2.4
 	},
 	{
 		"code": "us-sc-063",
@@ -11771,7 +11771,7 @@
 	{
 		"code": "us-sc-079",
 		"name": "Richland County, SC",
-		"value": 4.4
+		"value": 2.4
 	},
 	{
 		"code": "us-sc-081",
@@ -11781,17 +11781,17 @@
 	{
 		"code": "us-sc-083",
 		"name": "Spartanburg County, SC",
-		"value": 4
+		"value": 2
 	},
 	{
 		"code": "us-sc-085",
 		"name": "Sumter County, SC",
-		"value": 5.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sc-087",
 		"name": "Union County, SC",
-		"value": 5.5
+		"value": 2.5
 	},
 	{
 		"code": "us-sc-089",
@@ -11801,27 +11801,27 @@
 	{
 		"code": "us-sc-091",
 		"name": "York County, SC",
-		"value": 4.1
+		"value": 2.1
 	},
 	{
 		"code": "us-sd-003",
 		"name": "Aurora County, SD",
-		"value": 3.6
+		"value": 1.6
 	},
 	{
 		"code": "us-sd-005",
 		"name": "Beadle County, SD",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "us-sd-007",
 		"name": "Bennett County, SD",
-		"value": 4.3
+		"value":2.3
 	},
 	{
 		"code": "us-sd-009",
 		"name": "Bon Homme County, SD",
-		"value": 2.7
+		"value": 1.7
 	},
 	{
 		"code": "us-sd-011",
@@ -11831,172 +11831,172 @@
 	{
 		"code": "us-sd-013",
 		"name": "Brown County, SD",
-		"value": 3.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sd-015",
 		"name": "Brule County, SD",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "us-sd-017",
 		"name": "Buffalo County, SD",
-		"value": 7.4
+		"value": 2.1
 	},
 	{
 		"code": "us-sd-019",
 		"name": "Butte County, SD",
-		"value": 3.8
+		"value": 2
 	},
 	{
 		"code": "us-sd-021",
 		"name": "Campbell County, SD",
-		"value": 4.5
+		"value": 2
 	},
 	{
 		"code": "us-sd-023",
 		"name": "Charles Mix County, SD",
-		"value": 3.3
+		"value": 2.3
 	},
 	{
 		"code": "us-sd-025",
 		"name": "Clark County, SD",
-		"value": 5.6
+		"value": 1.6
 	},
 	{
 		"code": "us-sd-027",
 		"name": "Clay County, SD",
-		"value": 2.9
+		"value": 1.9
 	},
 	{
 		"code": "us-sd-029",
 		"name": "Codington County, SD",
-		"value": 3.9
+		"value": 1.9
 	},
 	{
 		"code": "us-sd-031",
 		"name": "Corson County, SD",
-		"value": 3.6
+		"value": 2
 	},
 	{
 		"code": "us-sd-033",
 		"name": "Custer County, SD",
-		"value": 5.1
+		"value": 2.1
 	},
 	{
 		"code": "us-sd-035",
 		"name": "Davison County, SD",
-		"value": 3.1
+		"value": 2
 	},
 	{
 		"code": "us-sd-037",
 		"name": "Day County, SD",
-		"value": 5.8
+		"value": 1.8
 	},
 	{
 		"code": "us-sd-039",
 		"name": "Deuel County, SD",
-		"value": 7
+		"value": 2
 	},
 	{
 		"code": "us-sd-041",
 		"name": "Dewey County, SD",
-		"value": 8.3
+		"value": 2
 	},
 	{
 		"code": "us-sd-043",
 		"name": "Douglas County, SD",
-		"value": 3.3
+		"value": 2.3
 	},
 	{
 		"code": "us-sd-045",
 		"name": "Edmunds County, SD",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "us-sd-047",
 		"name": "Fall River County, SD",
-		"value": 4.9
+		"value": 1.9
 	},
 	{
 		"code": "us-sd-049",
 		"name": "Faulk County, SD",
-		"value": 3.4
+		"value": 2
 	},
 	{
 		"code": "us-sd-051",
 		"name": "Grant County, SD",
-		"value": 4.7
+		"value": 2
 	},
 	{
 		"code": "us-sd-053",
 		"name": "Gregory County, SD",
-		"value": 3.7
+		"value": 1.7
 	},
 	{
 		"code": "us-sd-055",
 		"name": "Haakon County, SD",
-		"value": 3.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sd-057",
 		"name": "Hamlin County, SD",
-		"value": 4.8
+		"value": 1.8
 	},
 	{
 		"code": "us-sd-059",
 		"name": "Hand County, SD",
-		"value": 2.7
+		"value": 2
 	},
 	{
 		"code": "us-sd-061",
 		"name": "Hanson County, SD",
-		"value": 5.8
+		"value": 2
 	},
 	{
 		"code": "us-sd-063",
 		"name": "Harding County, SD",
-		"value": 2.5
+		"value": 1
 	},
 	{
 		"code": "us-sd-065",
 		"name": "Hughes County, SD",
-		"value": 3.3
+		"value": 2.3
 	},
 	{
 		"code": "us-sd-067",
 		"name": "Hutchinson County, SD",
-		"value": 3.6
+		"value": 1.6
 	},
 	{
 		"code": "us-sd-069",
 		"name": "Hyde County, SD",
-		"value": 2.9
+		"value": 2
 	},
 	{
 		"code": "us-sd-071",
 		"name": "Jackson County, SD",
-		"value": 7.5
+		"value": 2.1
 	},
 	{
 		"code": "us-sd-073",
 		"name": "Jerauld County, SD",
-		"value": 2.4
+		"value": 2
 	},
 	{
 		"code": "us-sd-075",
 		"name": "Jones County, SD",
-		"value": 3.3
+		"value": 2.3
 	},
 	{
 		"code": "us-sd-077",
 		"name": "Kingsbury County, SD",
-		"value": 4
+		"value": 2
 	},
 	{
 		"code": "us-sd-079",
 		"name": "Lake County, SD",
-		"value": 4
+		"value": 2
 	},
 	{
 		"code": "us-sd-081",
@@ -12006,37 +12006,37 @@
 	{
 		"code": "us-sd-083",
 		"name": "Lincoln County, SD",
-		"value": 2.6
+		"value": 2
 	},
 	{
 		"code": "us-sd-085",
 		"name": "Lyman County, SD",
-		"value": 4.9
+		"value": 1.9
 	},
 	{
 		"code": "us-sd-087",
 		"name": "McCook County, SD",
-		"value": 3.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sd-089",
 		"name": "McPherson County, SD",
-		"value": 4.5
+		"value": 2
 	},
 	{
 		"code": "us-sd-091",
 		"name": "Marshall County, SD",
-		"value": 4.8
+		"value": 1.8
 	},
 	{
 		"code": "us-sd-093",
 		"name": "Meade County, SD",
-		"value": 4.1
+		"value": 2
 	},
 	{
 		"code": "us-sd-095",
 		"name": "Mellette County, SD",
-		"value": 4.9
+		"value": 2
 	},
 	{
 		"code": "us-sd-097",
@@ -12046,17 +12046,17 @@
 	{
 		"code": "us-sd-099",
 		"name": "Minnehaha County, SD",
-		"value": 3.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sd-101",
 		"name": "Moody County, SD",
-		"value": 3.4
+		"value": 2
 	},
 	{
 		"code": "us-sd-102",
 		"name": "Oglala Lakota County, SD",
-		"value": 10.9
+		"value": 1.9
 	},
 	{
 		"code": "us-sd-103",
@@ -12066,57 +12066,57 @@
 	{
 		"code": "us-sd-105",
 		"name": "Perkins County, SD",
-		"value": 3.3
+		"value": 2.3
 	},
 	{
 		"code": "us-sd-107",
 		"name": "Potter County, SD",
-		"value": 4.9
+		"value": 1.9
 	},
 	{
 		"code": "us-sd-109",
 		"name": "Roberts County, SD",
-		"value": 6.1
+		"value": 2.1
 	},
 	{
 		"code": "us-sd-111",
 		"name": "Sanborn County, SD",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "us-sd-115",
 		"name": "Spink County, SD",
-		"value": 4.7
+		"value": 2
 	},
 	{
 		"code": "us-sd-117",
 		"name": "Stanley County, SD",
-		"value": 3.8
+		"value": 2
 	},
 	{
 		"code": "us-sd-119",
 		"name": "Sully County, SD",
-		"value": 3.3
+		"value": 2.3
 	},
 	{
 		"code": "us-sd-121",
 		"name": "Todd County, SD",
-		"value": 6.6
+		"value": 1.6
 	},
 	{
 		"code": "us-sd-123",
 		"name": "Tripp County, SD",
-		"value": 3.2
+		"value": 2.2
 	},
 	{
 		"code": "us-sd-125",
 		"name": "Turner County, SD",
-		"value": 3.5
+		"value": 1.5
 	},
 	{
 		"code": "us-sd-127",
 		"name": "Union County, SD",
-		"value": 3.7
+		"value": 1.7
 	},
 	{
 		"code": "us-sd-129",
@@ -12126,32 +12126,32 @@
 	{
 		"code": "us-sd-135",
 		"name": "Yankton County, SD",
-		"value": 3.1
+		"value": 2
 	},
 	{
 		"code": "us-sd-137",
 		"name": "Ziebach County, SD",
-		"value": 4.1
+		"value": 2
 	},
 	{
 		"code": "us-tn-001",
 		"name": "Anderson County, TN",
-		"value": 4.1
+		"value": 2.4
 	},
 	{
 		"code": "us-tn-003",
 		"name": "Bedford County, TN",
-		"value": 4
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-005",
 		"name": "Benton County, TN",
-		"value": 6.8
+		"value": 2.9
 	},
 	{
 		"code": "us-tn-007",
 		"name": "Bledsoe County, TN",
-		"value": 6.6
+		"value": 2.6
 	},
 	{
 		"code": "us-tn-009",
@@ -12196,7 +12196,7 @@
 	{
 		"code": "us-tn-025",
 		"name": "Claiborne County, TN",
-		"value": 4.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-027",
@@ -12221,7 +12221,7 @@
 	{
 		"code": "us-tn-035",
 		"name": "Cumberland County, TN",
-		"value": 5.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-037",
@@ -12241,7 +12241,7 @@
 	{
 		"code": "us-tn-043",
 		"name": "Dickson County, TN",
-		"value": 3.6
+		"value": 2.6
 	},
 	{
 		"code": "us-tn-045",
@@ -12256,7 +12256,7 @@
 	{
 		"code": "us-tn-049",
 		"name": "Fentress County, TN",
-		"value": 4.7
+		"value": 2.7
 	},
 	{
 		"code": "us-tn-051",
@@ -12306,12 +12306,12 @@
 	{
 		"code": "us-tn-069",
 		"name": "Hardeman County, TN",
-		"value": 5.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-071",
 		"name": "Hardin County, TN",
-		"value": 5.1
+		"value": 2.6
 	},
 	{
 		"code": "us-tn-073",
@@ -12326,7 +12326,7 @@
 	{
 		"code": "us-tn-077",
 		"name": "Henderson County, TN",
-		"value": 5.9
+		"value": 2.9
 	},
 	{
 		"code": "us-tn-079",
@@ -12351,17 +12351,17 @@
 	{
 		"code": "us-tn-087",
 		"name": "Jackson County, TN",
-		"value": 5.5
+		"value": 2.5
 	},
 	{
 		"code": "us-tn-089",
 		"name": "Jefferson County, TN",
-		"value": 4.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-091",
 		"name": "Johnson County, TN",
-		"value": 4.4
+		"value": 2.4
 	},
 	{
 		"code": "us-tn-093",
@@ -12411,7 +12411,7 @@
 	{
 		"code": "us-tn-111",
 		"name": "Macon County, TN",
-		"value": 3.5
+		"value": 2.5
 	},
 	{
 		"code": "us-tn-113",
@@ -12421,7 +12421,7 @@
 	{
 		"code": "us-tn-115",
 		"name": "Marion County, TN",
-		"value": 5.5
+		"value": 2.5
 	},
 	{
 		"code": "us-tn-117",
@@ -12456,12 +12456,12 @@
 	{
 		"code": "us-tn-129",
 		"name": "Morgan County, TN",
-		"value": 5.5
+		"value": 2.5
 	},
 	{
 		"code": "us-tn-131",
 		"name": "Obion County, TN",
-		"value": 5.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-133",
@@ -12551,12 +12551,12 @@
 	{
 		"code": "us-tn-167",
 		"name": "Tipton County, TN",
-		"value": 4.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-169",
 		"name": "Trousdale County, TN",
-		"value": 3.8
+		"value": 2.8
 	},
 	{
 		"code": "us-tn-171",
@@ -12566,7 +12566,7 @@
 	{
 		"code": "us-tn-173",
 		"name": "Union County, TN",
-		"value": 4.7
+		"value": 2.7
 	},
 	{
 		"code": "us-tn-175",
