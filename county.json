@@ -7,7 +7,7 @@
     {
         "code": "us-al-003",
         "name": "Baldwin County, AL",
-        "value": 4.3
+        "value": 2.1
     },
     {
         "code": "us-al-005",
@@ -37,12 +37,12 @@
     {
         "code": "us-al-015",
         "name": "Calhoun County, AL",
-        "value": 4.9
+        "value": 2.1
     },
     {
         "code": "us-al-017",
         "name": "Chambers County, AL",
-        "value": 4.2
+        "value": 1.8
     },
     {
         "code": "us-al-019",
@@ -67,7 +67,7 @@
     {
         "code": "us-al-027",
         "name": "Clay County, AL",
-        "value": 4.2
+        "value": 2.3
     },
     {
         "code": "us-al-029",
@@ -92,7 +92,7 @@
     {
         "code": "us-al-037",
         "name": "Coosa County, AL",
-        "value": 4.7
+        "value": 2.2
     },
     {
         "code": "us-al-039",
@@ -142,7 +142,7 @@
     {
         "code": "us-al-057",
         "name": "Fayette County, AL",
-        "value": 4.8
+        "value": 2.2
     },
     {
         "code": "us-al-059",
@@ -157,7 +157,7 @@
     {
         "code": "us-al-063",
         "name": "Greene County, AL",
-        "value": 7
+        "value": 2.2
     },
     {
         "code": "us-al-065",
@@ -182,7 +182,7 @@
     {
         "code": "us-al-073",
         "name": "Jefferson County, AL",
-        "value": 4.1
+        "value": 2.0
     },
     {
         "code": "us-al-075",
