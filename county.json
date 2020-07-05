@@ -347,7 +347,7 @@
     {
         "code": "us-ak-020",
         "name": "Anchorage Borough/municipality, AK",
-        "value": 5.9
+        "value": 1
     },
     {
         "code": "us-ak-050",
@@ -357,12 +357,12 @@
     {
         "code": "us-ak-060",
         "name": "Bristol Bay Borough, AK",
-        "value": 15.9
+        "value": 1
     },
     {
         "code": "us-ak-068",
         "name": "Denali Borough, AK",
-        "value": 2
+        "value": 1
     },
     {
         "code": "us-ak-070",
@@ -372,17 +372,17 @@
     {
         "code": "us-ak-090",
         "name": "Fairbanks North Star Borough, AK",
-        "value": 6.8
+        "value": 1
     },
     {
         "code": "us-ak-100",
         "name": "Haines Borough, AK",
-        "value": 16.1
+        "value": 1
     },
     {
         "code": "us-ak-105",
         "name": "Hoonah-Angoon Census Area, AK",
-        "value": 19.1
+        "value": 1
     },
     {
         "code": "us-ak-110",
@@ -392,7 +392,7 @@
     {
         "code": "us-ak-122",
         "name": "Kenai Peninsula Borough, AK",
-        "value": 9.6
+        "value": 0.6
     },
     {
         "code": "us-ak-130",
@@ -402,12 +402,12 @@
     {
         "code": "us-ak-150",
         "name": "Kodiak Island Borough, AK",
-        "value": 8.3
+        "value": 0.6
     },
     {
         "code": "us-ak-158",
         "name": "Kusilvak Census Area, AK",
-        "value": 20.2
+        "value": 0.6
     },
     {
         "code": "us-ak-164",
@@ -427,12 +427,12 @@
     {
         "code": "us-ak-185",
         "name": "North Slope Borough, AK",
-        "value": 6.8
+        "value": 0.6
     },
     {
         "code": "us-ak-188",
         "name": "Northwest Arctic Borough, AK",
-        "value": 15
+        "value": 0.6
     },
     {
         "code": "us-ak-195",
@@ -452,12 +452,12 @@
     {
         "code": "us-ak-230",
         "name": "Skagway Municipality, AK",
-        "value": 21.6
+        "value": 0.6
     },
     {
         "code": "us-ak-240",
         "name": "Southeast Fairbanks Census Area, AK",
-        "value": 11.6
+        "value": 0.6
     },
     {
         "code": "us-ak-261",
@@ -472,7 +472,7 @@
     {
         "code": "us-ak-282",
         "name": "Yakutat Borough/city, AK",
-        "value": 10.6
+        "value": 0.6
     },
     {
         "code": "us-ak-290",
@@ -492,7 +492,7 @@
     {
         "code": "us-az-005",
         "name": "Coconino County, AZ",
-        "value": 6.2
+        "value": 1.5
     },
     {
         "code": "us-az-007",
