@@ -7,7 +7,7 @@
     {
         "code": "us-al-003",
         "name": "Baldwin County, AL",
-        "value": 2.1
+        "value": 4.3
     },
     {
         "code": "us-al-005",
@@ -17,7 +17,7 @@
     {
         "code": "us-al-007",
         "name": "Bibb County, AL",
-        "value": 1.5
+        "value": 4.2
     },
     {
         "code": "us-al-009",
@@ -37,12 +37,12 @@
     {
         "code": "us-al-015",
         "name": "Calhoun County, AL",
-        "value": 2.1
+        "value": 4.9
     },
     {
         "code": "us-al-017",
         "name": "Chambers County, AL",
-        "value": 1.8
+        "value": 4.2
     },
     {
         "code": "us-al-019",
@@ -52,7 +52,7 @@
     {
         "code": "us-al-021",
         "name": "Chilton County, AL",
-        "value": 2.8
+        "value": 4
     },
     {
         "code": "us-al-023",
@@ -67,7 +67,7 @@
     {
         "code": "us-al-027",
         "name": "Clay County, AL",
-        "value": 2.3
+        "value": 4.2
     },
     {
         "code": "us-al-029",
@@ -77,7 +77,7 @@
     {
         "code": "us-al-031",
         "name": "Coffee County, AL",
-        "value": 2.8
+        "value": 4.4
     },
     {
         "code": "us-al-033",
@@ -87,12 +87,12 @@
     {
         "code": "us-al-035",
         "name": "Conecuh County, AL",
-        "value": 2.6
+        "value": 5.6
     },
     {
         "code": "us-al-037",
         "name": "Coosa County, AL",
-        "value": 2.2
+        "value": 4.7
     },
     {
         "code": "us-al-039",
@@ -142,7 +142,7 @@
     {
         "code": "us-al-057",
         "name": "Fayette County, AL",
-        "value": 2.2
+        "value": 4.8
     },
     {
         "code": "us-al-059",
@@ -152,12 +152,12 @@
     {
         "code": "us-al-061",
         "name": "Geneva County, AL",
-        "value": 2.9
+        "value": 4.6
     },
     {
         "code": "us-al-063",
         "name": "Greene County, AL",
-        "value": 2.2
+        "value": 7
     },
     {
         "code": "us-al-065",
@@ -182,7 +182,7 @@
     {
         "code": "us-al-073",
         "name": "Jefferson County, AL",
-        "value": 2.0
+        "value": 4.1
     },
     {
         "code": "us-al-075",
@@ -277,7 +277,7 @@
     {
         "code": "us-al-111",
         "name": "Randolph County, AL",
-        "value": 2.7
+        "value": 4.4
     },
     {
         "code": "us-al-113",
@@ -332,12 +332,12 @@
     {
         "code": "us-al-133",
         "name": "Winston County, AL",
-        "value": 2
+        "value": 4.8
     },
     {
         "code": "us-ak-013",
         "name": "Aleutians East Borough, AK",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-ak-016",
@@ -347,152 +347,152 @@
     {
         "code": "us-ak-020",
         "name": "Anchorage Borough/municipality, AK",
-        "value": 1
+        "value": 5.9
     },
     {
         "code": "us-ak-050",
         "name": "Bethel Census Area, AK",
-        "value": 2
+        "value": 13.3
     },
     {
         "code": "us-ak-060",
         "name": "Bristol Bay Borough, AK",
-        "value": 1
+        "value": 15.9
     },
     {
         "code": "us-ak-068",
         "name": "Denali Borough, AK",
-        "value": 1
+        "value": 18.9
     },
     {
         "code": "us-ak-070",
         "name": "Dillingham Census Area, AK",
-        "value": 2
+        "value": 9.6
     },
     {
         "code": "us-ak-090",
         "name": "Fairbanks North Star Borough, AK",
-        "value": 1
+        "value": 6.8
     },
     {
         "code": "us-ak-100",
         "name": "Haines Borough, AK",
-        "value": 1
+        "value": 16.1
     },
     {
         "code": "us-ak-105",
         "name": "Hoonah-Angoon Census Area, AK",
-        "value": 1
+        "value": 19.1
     },
     {
         "code": "us-ak-110",
         "name": "Juneau Borough/city, AK",
-        "value": 2
+        "value": 5.1
     },
     {
         "code": "us-ak-122",
         "name": "Kenai Peninsula Borough, AK",
-        "value": 0.6
+        "value": 9.6
     },
     {
         "code": "us-ak-130",
         "name": "Ketchikan Gateway Borough, AK",
-        "value": 2
+        "value": 7.9
     },
     {
         "code": "us-ak-150",
         "name": "Kodiak Island Borough, AK",
-        "value": 0.6
+        "value": 8.3
     },
     {
         "code": "us-ak-158",
         "name": "Kusilvak Census Area, AK",
-        "value": 0.6
+        "value": 20.2
     },
     {
         "code": "us-ak-164",
         "name": "Lake and Peninsula Borough, AK",
-        "value": 2
+        "value": 15.3
     },
     {
         "code": "us-ak-170",
         "name": "Matanuska-Susitna Borough, AK",
-        "value": 2
+        "value": 8.8
     },
     {
         "code": "us-ak-180",
         "name": "Nome Census Area, AK",
-        "value": 2
+        "value": 11.9
     },
     {
         "code": "us-ak-185",
         "name": "North Slope Borough, AK",
-        "value": 0.6
+        "value": 6.8
     },
     {
         "code": "us-ak-188",
         "name": "Northwest Arctic Borough, AK",
-        "value": 0.6
+        "value": 15
     },
     {
         "code": "us-ak-195",
         "name": "Petersburg Borough, AK",
-        "value": 2
+        "value": 12.1
     },
     {
         "code": "us-ak-198",
         "name": "Prince of Wales-Hyder Census Area, AK",
-        "value": 2
+        "value": 13.2
     },
     {
         "code": "us-ak-220",
         "name": "Sitka Borough/city, AK",
-        "value": 2
+        "value": 5.2
     },
     {
         "code": "us-ak-230",
         "name": "Skagway Municipality, AK",
-        "value": 0.6
+        "value": 21.6
     },
     {
         "code": "us-ak-240",
         "name": "Southeast Fairbanks Census Area, AK",
-        "value": 0.6
+        "value": 11.6
     },
     {
         "code": "us-ak-261",
         "name": "Valdez-Cordova Census Area, AK",
-        "value": 2
+        "value": 10.7
     },
     {
         "code": "us-ak-275",
         "name": "Wrangell Borough/city, AK",
-        "value": 2
+        "value": 9.7
     },
     {
         "code": "us-ak-282",
         "name": "Yakutat Borough/city, AK",
-        "value": 0.6
+        "value": 10.6
     },
     {
         "code": "us-ak-290",
         "name": "Yukon-Koyukuk Census Area, AK",
-        "value": 2
+        "value": 18.5
     },
     {
         "code": "us-az-001",
         "name": "Apache County, AZ",
-        "value": 2
+        "value": 10.8
     },
     {
         "code": "us-az-003",
         "name": "Cochise County, AZ",
-        "value": 2.5
+        "value": 6
     },
     {
         "code": "us-az-005",
         "name": "Coconino County, AZ",
-        "value": 1.5
+        "value": 6.2
     },
     {
         "code": "us-az-007",
@@ -557,7 +557,7 @@
     {
         "code": "us-ar-001",
         "name": "Arkansas County, AR",
-        "value": 2
+        "value": 4.5
     },
     {
         "code": "us-ar-003",
@@ -567,7 +567,7 @@
     {
         "code": "us-ar-005",
         "name": "Baxter County, AR",
-        "value": 2
+        "value": 5.1
     },
     {
         "code": "us-ar-007",
@@ -577,7 +577,7 @@
     {
         "code": "us-ar-009",
         "name": "Boone County, AR",
-        "value": 2
+        "value": 4.4
     },
     {
         "code": "us-ar-011",
@@ -587,12 +587,12 @@
     {
         "code": "us-ar-013",
         "name": "Calhoun County, AR",
-        "value": 2.5
+        "value": 4.7
     },
     {
         "code": "us-ar-015",
         "name": "Carroll County, AR",
-        "value": 2.5
+        "value": 5
     },
     {
         "code": "us-ar-017",
@@ -607,12 +607,12 @@
     {
         "code": "us-ar-021",
         "name": "Clay County, AR",
-        "value": 2.5
+        "value": 5.6
     },
     {
         "code": "us-ar-023",
         "name": "Cleburne County, AR",
-        "value": 2.5
+        "value": 5.9
     },
     {
         "code": "us-ar-025",
@@ -627,7 +627,7 @@
     {
         "code": "us-ar-029",
         "name": "Conway County, AR",
-        "value": 2.5
+        "value": 5.1
     },
     {
         "code": "us-ar-031",
@@ -637,12 +637,12 @@
     {
         "code": "us-ar-033",
         "name": "Crawford County, AR",
-        "value": 2.5
+        "value": 4.1
     },
     {
         "code": "us-ar-035",
         "name": "Crittenden County, AR",
-        "value": 2
+        "value": 4.9
     },
     {
         "code": "us-ar-037",
@@ -672,7 +672,7 @@
     {
         "code": "us-ar-047",
         "name": "Franklin County, AR",
-        "value": 2
+        "value": 4
     },
     {
         "code": "us-ar-049",
@@ -692,7 +692,7 @@
     {
         "code": "us-ar-055",
         "name": "Greene County, AR",
-        "value": 2
+        "value": 4.2
     },
     {
         "code": "us-ar-057",
@@ -722,12 +722,12 @@
     {
         "code": "us-ar-067",
         "name": "Jackson County, AR",
-        "value": 2
+        "value": 7.6
     },
     {
         "code": "us-ar-069",
         "name": "Jefferson County, AR",
-        "value": 2
+        "value": 5.8
     },
     {
         "code": "us-ar-071",
@@ -742,7 +742,7 @@
     {
         "code": "us-ar-075",
         "name": "Lawrence County, AR",
-        "value": 2
+        "value": 4.9
     },
     {
         "code": "us-ar-077",
@@ -782,7 +782,7 @@
     {
         "code": "us-ar-091",
         "name": "Miller County, AR",
-        "value": 2.5
+        "value": 5
     },
     {
         "code": "us-ar-093",
@@ -797,7 +797,7 @@
     {
         "code": "us-ar-097",
         "name": "Montgomery County, AR",
-        "value": 2.5
+        "value": 6.1
     },
     {
         "code": "us-ar-099",
@@ -812,7 +812,7 @@
     {
         "code": "us-ar-103",
         "name": "Ouachita County, AR",
-        "value": 2.5
+        "value": 5.2
     },
     {
         "code": "us-ar-105",
@@ -842,17 +842,17 @@
     {
         "code": "us-ar-115",
         "name": "Pope County, AR",
-        "value": 2.5
+        "value": 5.3
     },
     {
         "code": "us-ar-117",
         "name": "Prairie County, AR",
-        "value": 2.5
+        "value": 4.7
     },
     {
         "code": "us-ar-119",
         "name": "Pulaski County, AR",
-        "value": 1.7
+        "value": 3.9
     },
     {
         "code": "us-ar-121",
@@ -872,7 +872,7 @@
     {
         "code": "us-ar-127",
         "name": "Scott County, AR",
-        "value": 1.7
+        "value": 4.2
     },
     {
         "code": "us-ar-129",
@@ -887,7 +887,7 @@
     {
         "code": "us-ar-133",
         "name": "Sevier County, AR",
-        "value": 1.7
+        "value": 5.4
     },
     {
         "code": "us-ar-135",
@@ -897,7 +897,7 @@
     {
         "code": "us-ar-137",
         "name": "Stone County, AR",
-        "value": 1.7
+        "value": 6
     },
     {
         "code": "us-ar-139",
@@ -907,7 +907,7 @@
     {
         "code": "us-ar-141",
         "name": "Van Buren County, AR",
-        "value": 1.7
+        "value": 6.4
     },
     {
         "code": "us-ar-143",
@@ -922,7 +922,7 @@
     {
         "code": "us-ar-147",
         "name": "Woodruff County, AR",
-        "value": 1.7
+        "value": 5.6
     },
     {
         "code": "us-ar-149",
@@ -937,7 +937,7 @@
     {
         "code": "us-ca-003",
         "name": "Alpine County, CA",
-        "value": 2.6
+        "value": 4.4
     },
     {
         "code": "us-ca-005",
@@ -962,7 +962,7 @@
     {
         "code": "us-ca-013",
         "name": "Contra Costa County, CA",
-        "value": 2.6
+        "value": 3.5
     },
     {
         "code": "us-ca-015",
@@ -977,7 +977,7 @@
     {
         "code": "us-ca-019",
         "name": "Fresno County, CA",
-        "value": 2.6
+        "value": 8.7
     },
     {
         "code": "us-ca-021",
@@ -987,7 +987,7 @@
     {
         "code": "us-ca-023",
         "name": "Humboldt County, CA",
-        "value": 2.6
+        "value": 4.1
     },
     {
         "code": "us-ca-025",
@@ -997,12 +997,12 @@
     {
         "code": "us-ca-027",
         "name": "Inyo County, CA",
-        "value": 2.6
+        "value": 4.3
     },
     {
         "code": "us-ca-029",
         "name": "Kern County, CA",
-        "value": 2.6
+        "value": 9.2
     },
     {
         "code": "us-ca-031",
@@ -1042,7 +1042,7 @@
     {
         "code": "us-ca-045",
         "name": "Mendocino County, CA",
-        "value": 2.6
+        "value": 4.7
     },
     {
         "code": "us-ca-047",
@@ -1057,7 +1057,7 @@
     {
         "code": "us-ca-051",
         "name": "Mono County, CA",
-        "value": 2.6
+        "value": 3.9
     },
     {
         "code": "us-ca-053",
@@ -1087,22 +1087,22 @@
     {
         "code": "us-ca-063",
         "name": "Plumas County, CA",
-        "value": 2.6
+        "value": 10.7
     },
     {
         "code": "us-ca-065",
         "name": "Riverside County, CA",
-        "value": 2.6
+        "value": 4.7
     },
     {
         "code": "us-ca-067",
         "name": "Sacramento County, CA",
-        "value": 2.6
+        "value": 4.3
     },
     {
         "code": "us-ca-069",
         "name": "San Benito County, CA",
-        "value": 2.6
+        "value": 6
     },
     {
         "code": "us-ca-071",
@@ -1122,12 +1122,12 @@
     {
         "code": "us-ca-077",
         "name": "San Joaquin County, CA",
-        "value": 2.6
+        "value": 7.1
     },
     {
         "code": "us-ca-079",
         "name": "San Luis Obispo County, CA",
-        "value": 2.6
+        "value": 3.4
     },
     {
         "code": "us-ca-081",
@@ -1167,7 +1167,7 @@
     {
         "code": "us-ca-095",
         "name": "Solano County, CA",
-        "value": 2.6
+        "value": 4.5
     },
     {
         "code": "us-ca-097",
@@ -1177,12 +1177,12 @@
     {
         "code": "us-ca-099",
         "name": "Stanislaus County, CA",
-        "value": 2
+        "value": 7.4
     },
     {
         "code": "us-ca-101",
         "name": "Sutter County, CA",
-        "value": 2
+        "value": 9.5
     },
     {
         "code": "us-ca-103",
@@ -1202,7 +1202,7 @@
     {
         "code": "us-ca-109",
         "name": "Tuolumne County, CA",
-        "value": 2
+        "value": 5.5
     },
     {
         "code": "us-ca-111",
@@ -1212,7 +1212,7 @@
     {
         "code": "us-ca-113",
         "name": "Yolo County, CA",
-        "value": 2
+        "value": 5.2
     },
     {
         "code": "us-ca-115",
@@ -1222,7 +1222,7 @@
     {
         "code": "us-co-001",
         "name": "Adams County, CO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-co-003",
@@ -1237,7 +1237,7 @@
     {
         "code": "us-co-007",
         "name": "Archuleta County, CO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-co-009",
@@ -1262,12 +1262,12 @@
     {
         "code": "us-co-015",
         "name": "Chaffee County, CO",
-        "value": 2
+        "value": 2.8
     },
     {
         "code": "us-co-017",
         "name": "Cheyenne County, CO",
-        "value": 2
+        "value": 1.7
     },
     {
         "code": "us-co-019",
@@ -1297,12 +1297,12 @@
     {
         "code": "us-co-029",
         "name": "Delta County, CO",
-        "value": 2
+        "value": 4.5
     },
     {
         "code": "us-co-031",
         "name": "Denver County/city, CO",
-        "value": 2.5
+        "value": 3.1
     },
     {
         "code": "us-co-033",
@@ -1327,17 +1327,17 @@
     {
         "code": "us-co-041",
         "name": "El Paso County, CO",
-        "value": 2.5
+        "value": 3.7
     },
     {
         "code": "us-co-043",
         "name": "Fremont County, CO",
-        "value": 2.5
+        "value": 5.2
     },
     {
         "code": "us-co-045",
         "name": "Garfield County, CO",
-        "value": 2.5
+        "value": 3.4
     },
     {
         "code": "us-co-047",
@@ -1392,7 +1392,7 @@
     {
         "code": "us-co-067",
         "name": "La Plata County, CO",
-        "value": 2.5
+        "value": 3
     },
     {
         "code": "us-co-069",
@@ -1402,7 +1402,7 @@
     {
         "code": "us-co-071",
         "name": "Las Animas County, CO",
-        "value": 2
+        "value": 4.6
     },
     {
         "code": "us-co-073",
@@ -1422,12 +1422,12 @@
     {
         "code": "us-co-079",
         "name": "Mineral County, CO",
-        "value": 2
+        "value": 1.7
     },
     {
         "code": "us-co-081",
         "name": "Moffat County, CO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-co-083",
@@ -1482,7 +1482,7 @@
     {
         "code": "us-co-103",
         "name": "Rio Blanco County, CO",
-        "value": 2
+        "value": 4.4
     },
     {
         "code": "us-co-105",
@@ -1522,7 +1522,7 @@
     {
         "code": "us-co-119",
         "name": "Teller County, CO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-co-121",
@@ -7412,577 +7412,577 @@
     {
         "code": "us-mo-001",
         "name": "Adair County, MO",
-        "value": 2
+        "value": 4.5
     },
     {
         "code": "us-mo-003",
         "name": "Andrew County, MO",
-        "value": 2
+        "value": 3.1
     },
     {
         "code": "us-mo-005",
         "name": "Atchison County, MO",
-        "value": 2
+        "value": 3
     },
     {
         "code": "us-mo-007",
         "name": "Audrain County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-009",
         "name": "Barry County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-011",
         "name": "Barton County, MO",
-        "value": 2
+        "value": 3.4
     },
     {
         "code": "us-mo-013",
         "name": "Bates County, MO",
-        "value": 2
+        "value": 5
     },
     {
         "code": "us-mo-015",
         "name": "Benton County, MO",
-        "value": 2
+        "value": 5.6
     },
     {
         "code": "us-mo-017",
         "name": "Bollinger County, MO",
-        "value": 2
+        "value": 5
     },
     {
         "code": "us-mo-019",
         "name": "Boone County, MO",
-        "value": 2.3
+        "value": 2.7
     },
     {
         "code": "us-mo-021",
         "name": "Buchanan County, MO",
-        "value": 2
+        "value": 3.4
     },
     {
         "code": "us-mo-023",
         "name": "Butler County, MO",
-        "value": 2
+        "value": 5.3
     },
     {
         "code": "us-mo-025",
         "name": "Caldwell County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-027",
         "name": "Callaway County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-029",
         "name": "Camden County, MO",
-        "value": 2
+        "value": 6.5
     },
     {
         "code": "us-mo-031",
         "name": "Cape Girardeau County, MO",
-        "value": 2
+        "value": 3.3
     },
     {
         "code": "us-mo-033",
         "name": "Carroll County, MO",
-        "value": 2
+        "value": 4.4
     },
     {
         "code": "us-mo-035",
         "name": "Carter County, MO",
-        "value": 2
+        "value": 6.5
     },
     {
         "code": "us-mo-037",
         "name": "Cass County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-039",
         "name": "Cedar County, MO",
-        "value": 2
+        "value": 3.8
     },
     {
         "code": "us-mo-041",
         "name": "Chariton County, MO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-mo-043",
         "name": "Christian County, MO",
-        "value": 1.8
+        "value": 3.2
     },
     {
         "code": "us-mo-045",
         "name": "Clark County, MO",
-        "value": 1.8
+        "value": 4.6
     },
     {
         "code": "us-mo-047",
         "name": "Clay County, MO",
-        "value": 1.8
+        "value": 3.7
     },
     {
         "code": "us-mo-049",
         "name": "Clinton County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-051",
         "name": "Cole County, MO",
-        "value": 2
+        "value": 3.1
     },
     {
         "code": "us-mo-053",
         "name": "Cooper County, MO",
-        "value": 2
+        "value": 3.8
     },
     {
         "code": "us-mo-055",
         "name": "Crawford County, MO",
-        "value": 2
+        "value": 5.1
     },
     {
         "code": "us-mo-057",
         "name": "Dade County, MO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-mo-059",
         "name": "Dallas County, MO",
-        "value": 2
+        "value": 4.6
     },
     {
         "code": "us-mo-061",
         "name": "Daviess County, MO",
-        "value": 1.8
+        "value": 4
     },
     {
         "code": "us-mo-063",
         "name": "DeKalb County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-065",
         "name": "Dent County, MO",
-        "value": 2
+        "value": 3.9
     },
     {
         "code": "us-mo-067",
         "name": "Douglas County, MO",
-        "value": 2
+        "value": 4.3
     },
     {
         "code": "us-mo-069",
         "name": "Dunklin County, MO",
-        "value": 2
+        "value": 6.2
     },
     {
         "code": "us-mo-071",
         "name": "Franklin County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-073",
         "name": "Gasconade County, MO",
-        "value": 1.8
+        "value": 4
     },
     {
         "code": "us-mo-075",
         "name": "Gentry County, MO",
-        "value": 2.4
+        "value": 2.6
     },
     {
         "code": "us-mo-077",
         "name": "Greene County, MO",
-        "value": 2
+        "value": 3
     },
     {
         "code": "us-mo-079",
         "name": "Grundy County, MO",
-        "value": 2
+        "value": 3.3
     },
     {
         "code": "us-mo-081",
         "name": "Harrison County, MO",
-        "value": 2
+        "value": 4.3
     },
     {
         "code": "us-mo-083",
         "name": "Henry County, MO",
-        "value": 2
+        "value": 4.2
     },
     {
         "code": "us-mo-085",
         "name": "Hickory County, MO",
-        "value": 1.8
+        "value": 5
     },
     {
         "code": "us-mo-087",
         "name": "Holt County, MO",
-        "value": 1.8
+        "value": 2.9
     },
     {
         "code": "us-mo-089",
         "name": "Howard County, MO",
-        "value": 2
+        "value": 3.9
     },
     {
         "code": "us-mo-091",
         "name": "Howell County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-093",
         "name": "Iron County, MO",
-        "value": 2
+        "value": 6.7
     },
     {
         "code": "us-mo-095",
         "name": "Jackson County, MO",
-        "value": 2
+        "value": 4.3
     },
     {
         "code": "us-mo-097",
         "name": "Jasper County, MO",
-        "value": 2
+        "value": 3.1
     },
     {
         "code": "us-mo-099",
         "name": "Jefferson County, MO",
-        "value": 2
+        "value": 3.9
     },
     {
         "code": "us-mo-101",
         "name": "Johnson County, MO",
-        "value": 2
+        "value": 4.7
     },
     {
         "code": "us-mo-103",
         "name": "Knox County, MO",
-        "value": 1.8
+        "value": 3.6
     },
     {
         "code": "us-mo-105",
         "name": "Laclede County, MO",
-        "value": 2
+        "value": 4.3
     },
     {
         "code": "us-mo-107",
         "name": "Lafayette County, MO",
-        "value": 2
+        "value": 4
     },
     {
         "code": "us-mo-109",
         "name": "Lawrence County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-111",
         "name": "Lewis County, MO",
-        "value": 2
+        "value": 3.4
     },
     {
         "code": "us-mo-113",
         "name": "Lincoln County, MO",
-        "value": 2
+        "value": 4.2
     },
     {
         "code": "us-mo-115",
         "name": "Linn County, MO",
-        "value": 2
+        "value": 6.2
     },
     {
         "code": "us-mo-117",
         "name": "Livingston County, MO",
-        "value": 2
+        "value": 3.1
     },
     {
         "code": "us-mo-119",
         "name": "McDonald County, MO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-mo-121",
         "name": "Macon County, MO",
-        "value": 2
+        "value": 3.8
     },
     {
         "code": "us-mo-123",
         "name": "Madison County, MO",
-        "value": 1.8
+        "value": 4.7
     },
     {
         "code": "us-mo-125",
         "name": "Maries County, MO",
-        "value": 2                                                                                                                          2
+        "value": 3.8
     },
     {
         "code": "us-mo-127",
         "name": "Marion County, MO",
-        "value": 1.8
+        "value": 3.7
     },
     {
         "code": "us-mo-129",
         "name": "Mercer County, MO",
-        "value": 2
+        "value": 4
     },
     {
         "code": "us-mo-131",
         "name": "Miller County, MO",
-        "value": 2
+        "value": 5.5
     },
     {
         "code": "us-mo-133",
         "name": "Mississippi County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-135",
         "name": "Moniteau County, MO",
-        "value": 2
+        "value": 3.9
     },
     {
         "code": "us-mo-137",
         "name": "Monroe County, MO",
-        "value": 2
+        "value": 4.8
     },
     {
         "code": "us-mo-139",
         "name": "Montgomery County, MO",
-        "value": 2
+        "value": 3.4
     },
     {
         "code": "us-mo-141",
         "name": "Morgan County, MO",
-        "value": 2
+        "value": 5.8
     },
     {
         "code": "us-mo-143",
         "name": "New Madrid County, MO",
-        "value": 1.8
+        "value": 5.4
     },
     {
         "code": "us-mo-145",
         "name": "Newton County, MO",
-        "value": 1.8
+        "value": 3.3
     },
     {
         "code": "us-mo-147",
         "name": "Nodaway County, MO",
-        "value": 2
+        "value": 3.3
     },
     {
         "code": "us-mo-149",
         "name": "Oregon County, MO",
-        "value": 2
+        "value": 3.8
     },
     {
         "code": "us-mo-151",
         "name": "Osage County, MO",
-        "value": 2
+        "value": 3
     },
     {
         "code": "us-mo-153",
         "name": "Ozark County, MO",
-        "value": 2
+        "value": 5.8
     },
     {
         "code": "us-mo-155",
         "name": "Pemiscot County, MO",
-        "value": 2
+        "value": 6.7
     },
     {
         "code": "us-mo-157",
         "name": "Perry County, MO",
-        "value": 2.3
+        "value": 2.8
     },
     {
         "code": "us-mo-159",
         "name": "Pettis County, MO",
-        "value": 1.8
+        "value": 4.2
     },
     {
         "code": "us-mo-161",
         "name": "Phelps County, MO",
-        "value": 2
+        "value": 3.8
     },
     {
         "code": "us-mo-163",
         "name": "Pike County, MO",
-        "value": 2
+        "value": 3.9
     },
     {
         "code": "us-mo-165",
         "name": "Platte County, MO",
-        "value": 1.8
+        "value": 3.4
     },
     {
         "code": "us-mo-167",
         "name": "Polk County, MO",
-        "value": 2
+        "value": 4
     },
     {
         "code": "us-mo-169",
         "name": "Pulaski County, MO",
-        "value": 2
+        "value": 4.2
     },
     {
         "code": "us-mo-171",
         "name": "Putnam County, MO",
-        "value": 2
+        "value": 4.3
     },
     {
         "code": "us-mo-173",
         "name": "Ralls County, MO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-mo-175",
         "name": "Randolph County, MO",
-        "value": 2
+        "value": 4.5
     },
     {
         "code": "us-mo-177",
         "name": "Ray County, MO",
-        "value": 2
+        "value": 4.6
     },
     {
         "code": "us-mo-179",
         "name": "Reynolds County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-181",
         "name": "Ripley County, MO",
-        "value": 1.8
+        "value": 5.9
     },
     {
         "code": "us-mo-183",
         "name": "St. Charles County, MO",
-        "value": 1.8
+        "value": 3
     },
     {
         "code": "us-mo-185",
         "name": "St. Clair County, MO",
-        "value": 1.8
+        "value": 5
     },
     {
         "code": "us-mo-186",
         "name": "Ste. Genevieve County, MO",
-        "value": 2 
+        "value": 3.7
     },
     {
         "code": "us-mo-187",
         "name": "St. Francois County, MO",
-        "value": 2
+        "value": 4.6
     },
     {
         "code": "us-mo-189",
         "name": "St. Louis County, MO",
-        "value": 2
+        "value": 3.3
     },
     {
         "code": "us-mo-195",
         "name": "Saline County, MO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-mo-197",
         "name": "Schuyler County, MO",
-        "value": 2
+        "value": 5.6
     },
     {
         "code": "us-mo-199",
         "name": "Scotland County, MO",
-        "value": 2
+        "value": 3.7
     },
     {
         "code": "us-mo-201",
         "name": "Scott County, MO",
-        "value": 2
+        "value": 3.8
     },
     {
         "code": "us-mo-203",
         "name": "Shannon County, MO",
-        "value": 2
+        "value": 6
     },
     {
         "code": "us-mo-205",
         "name": "Shelby County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-207",
         "name": "Stoddard County, MO",
-        "value": 1.8
+        "value": 5.5
     },
     {
         "code": "us-mo-209",
         "name": "Stone County, MO",
-        "value": 1.8
+        "value": 9.6
     },
     {
         "code": "us-mo-211",
         "name": "Sullivan County, MO",
-        "value": 2
+        "value": 4.1
     },
     {
         "code": "us-mo-213",
         "name": "Taney County, MO",
-        "value": 2
+        "value": 12
     },
     {
         "code": "us-mo-215",
         "name": "Texas County, MO",
-        "value": 2
+        "value": 4.9
     },
     {
         "code": "us-mo-217",
         "name": "Vernon County, MO",
-        "value": 2
+        "value": 3.5
     },
     {
         "code": "us-mo-219",
         "name": "Warren County, MO",
-        "value": 2
+        "value": 3.6
     },
     {
         "code": "us-mo-221",
         "name": "Washington County, MO",
-        "value": 2
+        "value": 5.8
     },
     {
         "code": "us-mo-223",
         "name": "Wayne County, MO",
-        "value": 2
+        "value": 5.1
     },
     {
         "code": "us-mo-225",
         "name": "Webster County, MO",
-        "value": 2
+        "value": 3.6
     },
     {
         "code": "us-mo-227",
         "name": "Worth County, MO",
-        "value": 2
+        "value": 3
     },
     {
         "code": "us-mo-229",
         "name": "Wright County, MO",
-        "value": 1.8
+        "value": 4.6
     },
     {
         "code": "us-mo-510",
         "name": "St. Louis city, MO",
-        "value": 2
+        "value": 4.2
     },
     {
         "code": "us-mt-001",
@@ -8972,67 +8972,67 @@
     {
         "code": "us-nm-001",
         "name": "Bernalillo County, NM",
-        "value": 2.0
+        "value": 4.8
     },
     {
         "code": "us-nm-003",
         "name": "Catron County, NM",
-        "value": 1.8
+        "value": 7.9
     },
     {
         "code": "us-nm-005",
         "name": "Chaves County, NM",
-        "value": 1.8
+        "value": 5.3
     },
     {
         "code": "us-nm-006",
         "name": "Cibola County, NM",
-        "value": 2.0
+        "value": 6.7
     },
     {
         "code": "us-nm-007",
         "name": "Colfax County, NM",
-        "value": 1.5
+        "value": 5.4
     },
     {
         "code": "us-nm-009",
         "name": "Curry County, NM",
-        "value": 0.3
+        "value": 4.1
     },
     {
         "code": "us-nm-011",
         "name": "De Baca County, NM",
-        "value": 1.8
+        "value": 4.1
     },
     {
         "code": "us-nm-013",
         "name": "Dona Ana County, NM",
-        "value": 1.8
+        "value": 6.4
     },
     {
         "code": "us-nm-015",
         "name": "Eddy County, NM",
-        "value": 1.2
+        "value": 3.7
     },
     {
         "code": "us-nm-017",
         "name": "Grant County, NM",
-        "value": 1.5
+        "value": 5.4
     },
     {
         "code": "us-nm-019",
         "name": "Guadalupe County, NM",
-        "value": 0.3
+        "value": 5.9
     },
     {
         "code": "us-nm-021",
         "name": "Harding County, NM",
-        "value": 1.2
+        "value": 4.7
     },
     {
         "code": "us-nm-023",
         "name": "Hidalgo County, NM",
-        "value": 1.8
+        "value": 5
     },
     {
         "code": "us-nm-025",
@@ -9042,32 +9042,32 @@
     {
         "code": "us-nm-027",
         "name": "Lincoln County, NM",
-        "value": 1.8
+        "value": 5.2
     },
     {
         "code": "us-nm-028",
         "name": "Los Alamos County, NM",
-        "value": 0.3
+        "value": 3.5
     },
     {
         "code": "us-nm-029",
         "name": "Luna County, NM",
-        "value": 1.2
+        "value": 16.8
     },
     {
         "code": "us-nm-031",
         "name": "McKinley County, NM",
-        "value": 0.3
+        "value": 7.7
     },
     {
         "code": "us-nm-033",
         "name": "Mora County, NM",
-        "value": 2.0
+        "value": 7.8
     },
     {
         "code": "us-nm-035",
         "name": "Otero County, NM",
-        "value": 1.8
+        "value": 5.2
     },
     {
         "code": "us-nm-037",
@@ -9077,52 +9077,52 @@
     {
         "code": "us-nm-039",
         "name": "Rio Arriba County, NM",
-        "value": 1.2
+        "value": 5.9
     },
     {
         "code": "us-nm-041",
         "name": "Roosevelt County, NM",
-        "value": 1.8
+        "value": 4.3
     },
     {
         "code": "us-nm-043",
         "name": "Sandoval County, NM",
-        "value": 2.0
+        "value": 5.4
     },
     {
         "code": "us-nm-045",
         "name": "San Juan County, NM",
-        "value": 1.2
+        "value": 6.4
     },
     {
         "code": "us-nm-047",
         "name": "San Miguel County, NM",
-        "value": 1.5
+        "value": 6.7
     },
     {
         "code": "us-nm-049",
         "name": "Santa Fe County, NM",
-        "value": 2.0
+        "value": 4.5
     },
     {
         "code": "us-nm-051",
         "name": "Sierra County, NM",
-        "value": 1.2
+        "value": 8.6
     },
     {
         "code": "us-nm-053",
         "name": "Socorro County, NM",
-        "value": 1.8
+        "value": 5.6
     },
     {
         "code": "us-nm-055",
         "name": "Taos County, NM",
-        "value": 1.5
+        "value": 6.9
     },
     {
         "code": "us-nm-057",
         "name": "Torrance County, NM",
-        "value": 1.8
+        "value": 9.3
     },
     {
         "code": "us-nm-059",
@@ -9132,7 +9132,7 @@
     {
         "code": "us-nm-061",
         "name": "Valencia County, NM",
-        "value": 0.3
+        "value": 5.7
     },
     {
         "code": "us-ny-001",
@@ -15592,117 +15592,117 @@
     {
         "code": "us-wy-001",
         "name": "Albany County, WY",
-        "value": 2
+        "value": 3.4
     },
     {
         "code": "us-wy-003",
         "name": "Big Horn County, WY",
-        "value": 2
+        "value": 5.5
     },
     {
         "code": "us-wy-005",
         "name": "Campbell County, WY",
-        "value": 2
+        "value": 4.9
     },
     {
         "code": "us-wy-007",
         "name": "Carbon County, WY",
-        "value": 2
+        "value": 4.9
     },
     {
         "code": "us-wy-009",
         "name": "Converse County, WY",
-        "value": 2
+        "value": 4.8
     },
     {
         "code": "us-wy-011",
         "name": "Crook County, WY",
-        "value": 1.5
+        "value": 3.6
     },
     {
         "code": "us-wy-013",
         "name": "Fremont County, WY",
-        "value": 2
+        "value": 6.6
     },
     {
         "code": "us-wy-015",
         "name": "Goshen County, WY",
-        "value": 1.5
+        "value": 3.6
     },
     {
         "code": "us-wy-017",
         "name": "Hot Springs County, WY",
-        "value": 2
+        "value": 4.3
     },
     {
         "code": "us-wy-019",
         "name": "Johnson County, WY",
-        "value": 2
+        "value": 5.5
     },
     {
         "code": "us-wy-021",
         "name": "Laramie County, WY",
-        "value": 2
+        "value": 4.5
     },
     {
         "code": "us-wy-023",
         "name": "Lincoln County, WY",
-        "value": 2
+        "value": 4.7
     },
     {
         "code": "us-wy-025",
         "name": "Natrona County, WY",
-        "value": 1.5
+        "value": 5.6
     },
     {
         "code": "us-wy-027",
         "name": "Niobrara County, WY",
-        "value": 1.5
+        "value": 2.6
     },
     {
         "code": "us-wy-029",
         "name": "Park County, WY",
-        "value": 2
+        "value": 5.9
     },
     {
         "code": "us-wy-031",
         "name": "Platte County, WY",
-        "value": 2
+        "value": 4.7
     },
     {
         "code": "us-wy-033",
         "name": "Sheridan County, WY",
-        "value": 2
+        "value": 5.3
     },
     {
         "code": "us-wy-035",
         "name": "Sublette County, WY",
-        "value": 2
+        "value": 4.9
     },
     {
         "code": "us-wy-037",
         "name": "Sweetwater County, WY",
-        "value": 1.5
+        "value": 4.9
     },
     {
         "code": "us-wy-039",
         "name": "Teton County, WY",
-        "value": 2
+        "value": 2.7
     },
     {
         "code": "us-wy-041",
         "name": "Uinta County, WY",
-        "value": 2
+        "value": 5
     },
     {
         "code": "us-wy-043",
         "name": "Washakie County, WY",
-        "value": 1.5
+        "value": 4.7
     },
     {
         "code": "us-wy-045",
         "name": "Weston County, WY",
-        "value": 2
+        "value": 4.2
     },
     {
         "code": "us-pr-001",
