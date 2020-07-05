@@ -332,7 +332,7 @@
     {
         "code": "us-al-133",
         "name": "Winston County, AL",
-        "value": 4.8
+        "value": 2
     },
     {
         "code": "us-ak-013",
@@ -387,7 +387,7 @@
     {
         "code": "us-ak-110",
         "name": "Juneau Borough/city, AK",
-        "value": 5.1
+        "value": 2
     },
     {
         "code": "us-ak-122",
@@ -447,7 +447,7 @@
     {
         "code": "us-ak-220",
         "name": "Sitka Borough/city, AK",
-        "value": 5.2
+        "value": 2
     },
     {
         "code": "us-ak-230",
@@ -557,7 +557,7 @@
     {
         "code": "us-ar-001",
         "name": "Arkansas County, AR",
-        "value": 4.5
+        "value": 2
     },
     {
         "code": "us-ar-003",
@@ -567,7 +567,7 @@
     {
         "code": "us-ar-005",
         "name": "Baxter County, AR",
-        "value": 5.1
+        "value": 2
     },
     {
         "code": "us-ar-007",
@@ -577,7 +577,7 @@
     {
         "code": "us-ar-009",
         "name": "Boone County, AR",
-        "value": 4.4
+        "value": 2
     },
     {
         "code": "us-ar-011",
@@ -587,12 +587,12 @@
     {
         "code": "us-ar-013",
         "name": "Calhoun County, AR",
-        "value": 4.7
+        "value": 2.5
     },
     {
         "code": "us-ar-015",
         "name": "Carroll County, AR",
-        "value": 5
+        "value": 2.5
     },
     {
         "code": "us-ar-017",
@@ -607,12 +607,12 @@
     {
         "code": "us-ar-021",
         "name": "Clay County, AR",
-        "value": 5.6
+        "value": 2.5
     },
     {
         "code": "us-ar-023",
         "name": "Cleburne County, AR",
-        "value": 5.9
+        "value": 2.5
     },
     {
         "code": "us-ar-025",
@@ -627,7 +627,7 @@
     {
         "code": "us-ar-029",
         "name": "Conway County, AR",
-        "value": 5.1
+        "value": 2.5
     },
     {
         "code": "us-ar-031",
@@ -637,12 +637,12 @@
     {
         "code": "us-ar-033",
         "name": "Crawford County, AR",
-        "value": 4.1
+        "value": 2.5
     },
     {
         "code": "us-ar-035",
         "name": "Crittenden County, AR",
-        "value": 4.9
+        "value": 2
     },
     {
         "code": "us-ar-037",
@@ -672,7 +672,7 @@
     {
         "code": "us-ar-047",
         "name": "Franklin County, AR",
-        "value": 4
+        "value": 2
     },
     {
         "code": "us-ar-049",
@@ -692,7 +692,7 @@
     {
         "code": "us-ar-055",
         "name": "Greene County, AR",
-        "value": 4.2
+        "value": 2
     },
     {
         "code": "us-ar-057",
@@ -722,12 +722,12 @@
     {
         "code": "us-ar-067",
         "name": "Jackson County, AR",
-        "value": 7.6
+        "value": 2
     },
     {
         "code": "us-ar-069",
         "name": "Jefferson County, AR",
-        "value": 5.8
+        "value": 2
     },
     {
         "code": "us-ar-071",
@@ -742,7 +742,7 @@
     {
         "code": "us-ar-075",
         "name": "Lawrence County, AR",
-        "value": 4.9
+        "value": 2
     },
     {
         "code": "us-ar-077",
@@ -782,7 +782,7 @@
     {
         "code": "us-ar-091",
         "name": "Miller County, AR",
-        "value": 5
+        "value": 2.5
     },
     {
         "code": "us-ar-093",
@@ -797,7 +797,7 @@
     {
         "code": "us-ar-097",
         "name": "Montgomery County, AR",
-        "value": 6.1
+        "value": 2.5
     },
     {
         "code": "us-ar-099",
@@ -812,7 +812,7 @@
     {
         "code": "us-ar-103",
         "name": "Ouachita County, AR",
-        "value": 5.2
+        "value": 2.5
     },
     {
         "code": "us-ar-105",
@@ -842,17 +842,17 @@
     {
         "code": "us-ar-115",
         "name": "Pope County, AR",
-        "value": 5.3
+        "value": 2.5
     },
     {
         "code": "us-ar-117",
         "name": "Prairie County, AR",
-        "value": 4.7
+        "value": 2.5
     },
     {
         "code": "us-ar-119",
         "name": "Pulaski County, AR",
-        "value": 3.9
+        "value": 1.7
     },
     {
         "code": "us-ar-121",
@@ -872,7 +872,7 @@
     {
         "code": "us-ar-127",
         "name": "Scott County, AR",
-        "value": 4.2
+        "value": 1.7
     },
     {
         "code": "us-ar-129",
@@ -887,7 +887,7 @@
     {
         "code": "us-ar-133",
         "name": "Sevier County, AR",
-        "value": 5.4
+        "value": 1.7
     },
     {
         "code": "us-ar-135",
@@ -897,7 +897,7 @@
     {
         "code": "us-ar-137",
         "name": "Stone County, AR",
-        "value": 6
+        "value": 1.7
     },
     {
         "code": "us-ar-139",
@@ -907,7 +907,7 @@
     {
         "code": "us-ar-141",
         "name": "Van Buren County, AR",
-        "value": 6.4
+        "value": 1.7
     },
     {
         "code": "us-ar-143",
@@ -922,7 +922,7 @@
     {
         "code": "us-ar-147",
         "name": "Woodruff County, AR",
-        "value": 5.6
+        "value": 1.7
     },
     {
         "code": "us-ar-149",
@@ -937,7 +937,7 @@
     {
         "code": "us-ca-003",
         "name": "Alpine County, CA",
-        "value": 4.4
+        "value": 2.6
     },
     {
         "code": "us-ca-005",
@@ -962,7 +962,7 @@
     {
         "code": "us-ca-013",
         "name": "Contra Costa County, CA",
-        "value": 3.5
+        "value": 2.6
     },
     {
         "code": "us-ca-015",
@@ -977,7 +977,7 @@
     {
         "code": "us-ca-019",
         "name": "Fresno County, CA",
-        "value": 8.7
+        "value": 2.6
     },
     {
         "code": "us-ca-021",
@@ -987,7 +987,7 @@
     {
         "code": "us-ca-023",
         "name": "Humboldt County, CA",
-        "value": 4.1
+        "value": 2.6
     },
     {
         "code": "us-ca-025",
@@ -997,12 +997,12 @@
     {
         "code": "us-ca-027",
         "name": "Inyo County, CA",
-        "value": 4.3
+        "value": 2.6
     },
     {
         "code": "us-ca-029",
         "name": "Kern County, CA",
-        "value": 9.2
+        "value": 2.6
     },
     {
         "code": "us-ca-031",
@@ -1042,7 +1042,7 @@
     {
         "code": "us-ca-045",
         "name": "Mendocino County, CA",
-        "value": 4.7
+        "value": 2.6
     },
     {
         "code": "us-ca-047",
@@ -1057,7 +1057,7 @@
     {
         "code": "us-ca-051",
         "name": "Mono County, CA",
-        "value": 3.9
+        "value": 2.6
     },
     {
         "code": "us-ca-053",
@@ -1087,22 +1087,22 @@
     {
         "code": "us-ca-063",
         "name": "Plumas County, CA",
-        "value": 10.7
+        "value": 2.6
     },
     {
         "code": "us-ca-065",
         "name": "Riverside County, CA",
-        "value": 4.7
+        "value": 2.6
     },
     {
         "code": "us-ca-067",
         "name": "Sacramento County, CA",
-        "value": 4.3
+        "value": 2.6
     },
     {
         "code": "us-ca-069",
         "name": "San Benito County, CA",
-        "value": 6
+        "value": 2.6
     },
     {
         "code": "us-ca-071",
@@ -1122,12 +1122,12 @@
     {
         "code": "us-ca-077",
         "name": "San Joaquin County, CA",
-        "value": 7.1
+        "value": 2.6
     },
     {
         "code": "us-ca-079",
         "name": "San Luis Obispo County, CA",
-        "value": 3.4
+        "value": 2.6
     },
     {
         "code": "us-ca-081",
@@ -1167,7 +1167,7 @@
     {
         "code": "us-ca-095",
         "name": "Solano County, CA",
-        "value": 4.5
+        "value": 2.6
     },
     {
         "code": "us-ca-097",
@@ -1177,12 +1177,12 @@
     {
         "code": "us-ca-099",
         "name": "Stanislaus County, CA",
-        "value": 7.4
+        "value": 2
     },
     {
         "code": "us-ca-101",
         "name": "Sutter County, CA",
-        "value": 9.5
+        "value": 2
     },
     {
         "code": "us-ca-103",
@@ -1202,7 +1202,7 @@
     {
         "code": "us-ca-109",
         "name": "Tuolumne County, CA",
-        "value": 5.5
+        "value": 2
     },
     {
         "code": "us-ca-111",
@@ -1212,7 +1212,7 @@
     {
         "code": "us-ca-113",
         "name": "Yolo County, CA",
-        "value": 5.2
+        "value": 2
     },
     {
         "code": "us-ca-115",
@@ -1222,7 +1222,7 @@
     {
         "code": "us-co-001",
         "name": "Adams County, CO",
-        "value": 3.5
+        "value": 2
     },
     {
         "code": "us-co-003",
@@ -1237,7 +1237,7 @@
     {
         "code": "us-co-007",
         "name": "Archuleta County, CO",
-        "value": 3.5
+        "value": 2
     },
     {
         "code": "us-co-009",
@@ -1262,12 +1262,12 @@
     {
         "code": "us-co-015",
         "name": "Chaffee County, CO",
-        "value": 2.8
+        "value": 2
     },
     {
         "code": "us-co-017",
         "name": "Cheyenne County, CO",
-        "value": 1.7
+        "value": 2
     },
     {
         "code": "us-co-019",
@@ -1297,12 +1297,12 @@
     {
         "code": "us-co-029",
         "name": "Delta County, CO",
-        "value": 4.5
+        "value": 2
     },
     {
         "code": "us-co-031",
         "name": "Denver County/city, CO",
-        "value": 3.1
+        "value": 2.5
     },
     {
         "code": "us-co-033",
@@ -1327,17 +1327,17 @@
     {
         "code": "us-co-041",
         "name": "El Paso County, CO",
-        "value": 3.7
+        "value": 2.5
     },
     {
         "code": "us-co-043",
         "name": "Fremont County, CO",
-        "value": 5.2
+        "value": 2.5
     },
     {
         "code": "us-co-045",
         "name": "Garfield County, CO",
-        "value": 3.4
+        "value": 2.5
     },
     {
         "code": "us-co-047",
@@ -1392,7 +1392,7 @@
     {
         "code": "us-co-067",
         "name": "La Plata County, CO",
-        "value": 3
+        "value": 2.5
     },
     {
         "code": "us-co-069",
@@ -1402,7 +1402,7 @@
     {
         "code": "us-co-071",
         "name": "Las Animas County, CO",
-        "value": 4.6
+        "value": 2
     },
     {
         "code": "us-co-073",
@@ -1422,12 +1422,12 @@
     {
         "code": "us-co-079",
         "name": "Mineral County, CO",
-        "value": 1.7
+        "value": 2
     },
     {
         "code": "us-co-081",
         "name": "Moffat County, CO",
-        "value": 4.1
+        "value": 2
     },
     {
         "code": "us-co-083",
@@ -1482,7 +1482,7 @@
     {
         "code": "us-co-103",
         "name": "Rio Blanco County, CO",
-        "value": 4.4
+        "value": 2
     },
     {
         "code": "us-co-105",
@@ -1522,7 +1522,7 @@
     {
         "code": "us-co-119",
         "name": "Teller County, CO",
-        "value": 3.5
+        "value": 2
     },
     {
         "code": "us-co-121",
