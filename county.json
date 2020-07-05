@@ -52,7 +52,7 @@
     {
         "code": "us-al-021",
         "name": "Chilton County, AL",
-        "value": 1.2
+        "value": 2.8
     },
     {
         "code": "us-al-023",
@@ -337,7 +337,7 @@
     {
         "code": "us-ak-013",
         "name": "Aleutians East Borough, AK",
-        "value": 3.5
+        "value": 2
     },
     {
         "code": "us-ak-016",
@@ -352,7 +352,7 @@
     {
         "code": "us-ak-050",
         "name": "Bethel Census Area, AK",
-        "value": 13.3
+        "value": 2
     },
     {
         "code": "us-ak-060",
@@ -362,12 +362,12 @@
     {
         "code": "us-ak-068",
         "name": "Denali Borough, AK",
-        "value": 18.9
+        "value": 2
     },
     {
         "code": "us-ak-070",
         "name": "Dillingham Census Area, AK",
-        "value": 9.6
+        "value": 2
     },
     {
         "code": "us-ak-090",
@@ -397,7 +397,7 @@
     {
         "code": "us-ak-130",
         "name": "Ketchikan Gateway Borough, AK",
-        "value": 7.9
+        "value": 2
     },
     {
         "code": "us-ak-150",
@@ -412,17 +412,17 @@
     {
         "code": "us-ak-164",
         "name": "Lake and Peninsula Borough, AK",
-        "value": 15.3
+        "value": 2
     },
     {
         "code": "us-ak-170",
         "name": "Matanuska-Susitna Borough, AK",
-        "value": 8.8
+        "value": 2
     },
     {
         "code": "us-ak-180",
         "name": "Nome Census Area, AK",
-        "value": 11.9
+        "value": 2
     },
     {
         "code": "us-ak-185",
@@ -437,12 +437,12 @@
     {
         "code": "us-ak-195",
         "name": "Petersburg Borough, AK",
-        "value": 12.1
+        "value": 2
     },
     {
         "code": "us-ak-198",
         "name": "Prince of Wales-Hyder Census Area, AK",
-        "value": 13.2
+        "value": 2
     },
     {
         "code": "us-ak-220",
@@ -462,12 +462,12 @@
     {
         "code": "us-ak-261",
         "name": "Valdez-Cordova Census Area, AK",
-        "value": 10.7
+        "value": 2
     },
     {
         "code": "us-ak-275",
         "name": "Wrangell Borough/city, AK",
-        "value": 9.7
+        "value": 2
     },
     {
         "code": "us-ak-282",
@@ -477,17 +477,17 @@
     {
         "code": "us-ak-290",
         "name": "Yukon-Koyukuk Census Area, AK",
-        "value": 18.5
+        "value": 2
     },
     {
         "code": "us-az-001",
         "name": "Apache County, AZ",
-        "value": 10.8
+        "value": 2
     },
     {
         "code": "us-az-003",
         "name": "Cochise County, AZ",
-        "value": 6
+        "value": 2.5
     },
     {
         "code": "us-az-005",
