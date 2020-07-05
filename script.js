@@ -22,7 +22,7 @@ function myFunction() {
 }
 
 Highcharts.getJSON(
-  "https://cdn.jsdelivr.net/gh/highcharts/highcharts@c116b6fa6948448/samples/data/us-counties-unemployment.json",
+    "https://raw.githubusercontent.com/NectDz/coronacation/master/county.json?token=ANDROFNRJ6QUL242PGZPY6S7BJIKC",
   
   function(data) {
     /**
